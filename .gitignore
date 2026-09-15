@@ -1,0 +1,17 @@
+# Keil 工程编译产物
+DemoC51/*.OBJ
+DemoC51/*.LST
+DemoC51/*.M51
+DemoC51/*.lnp
+DemoC51/*.uvopt
+DemoC51/*.uvgui.*
+DemoC51/*.build_log.htm
+DemoC51/build.log
+DemoC51/DemoC51
+
+# 通用
+*.bak
+*.bak-*
+Thumbs.db
+.DS_Store
+__pycache__/

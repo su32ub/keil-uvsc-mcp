@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "keil-uvsc": {
+      "command": "<解压目录>\bin\KeilUvscMcp.exe",
+      "args": []
+    }
+  }
+}
